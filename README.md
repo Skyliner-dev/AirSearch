@@ -1,4 +1,4 @@
-# AirSearch App
+# AirSearch
 ## An Android App which
 > Uses Room for local data storage (In this case: airports & favourites)
 
@@ -115,5 +115,6 @@ It again shows the suggestion instead of showing previously selected airports av
 
 ### ScreenShots :
 ![Available Flights from Airport](https://github.com/Skyliner-dev/AirSearch/blob/master/s1.png)
+![Searching for Airport to find flights](https://github.com/Skyliner-dev/AirSearch/blob/master/s4.png)
 ![Adding a flight to favourites by liking it](https://github.com/Skyliner-dev/AirSearch/blob/master/s2.png)
 ![Viewing The Favourites](https://github.com/Skyliner-dev/AirSearch/blob/master/s3.png) *Only Happens when the textField is Empty*
