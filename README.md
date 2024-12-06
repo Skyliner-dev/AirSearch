@@ -1,5 +1,5 @@
 # AirSearch App
-## An Android Practice App which
+## An Android App which
 > Uses Room for local data storage (In this case: airports & favourites)
 
 > Uses Datastore (preference) for storing key value pair of textfield value (search bar content)
