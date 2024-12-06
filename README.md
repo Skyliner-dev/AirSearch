@@ -1,6 +1,7 @@
 # AirSearch App
 ## An Android Practice App which
 > Uses Room for local data storage (In this case: airports & favourites)
+
 > Uses Datastore (preference) for storing key value pair of textfield value (search bar content)
 
 *You can either download the zip or clone this repository and open directly in Android studio (Recommended to update compileSdk version atleast to 35)*
